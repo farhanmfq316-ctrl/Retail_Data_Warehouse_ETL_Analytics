@@ -346,6 +346,7 @@ The main objective was to demonstrate how raw transactional data can be transfor
 
 ### 👨‍💻 Author
 Mohammad Farhan
+
 MBA — Business Analytics & Artificial Intelligence
 Middlesex University Dubai
 Skills:
